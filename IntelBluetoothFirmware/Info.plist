@@ -169,9 +169,9 @@
 			<key>IOProviderClass</key>
 			<string>IOUSBHostDevice</string>
 			<key>idProduct</key>
-			<integer>2730</integer>
+			<integer>1</integer>
 			<key>idVendor</key>
-			<integer>32903</integer>
+			<integer>2578</integer>
 		</dict>
 		<key>IntelBluetoothFirmware_ax200</key>
 		<dict>
